@@ -1,0 +1,7 @@
+{
+  "name": "Olho Digital - Sistema de Proteção",
+  "description": "A high-fidelity security monitoring simulation application designed to raise awareness about digital safety for children, featuring simulated phone interfaces, geolocation tracking dashboards, and interactive educational scenarios.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
